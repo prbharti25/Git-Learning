@@ -8,3 +8,6 @@ const footer =" Footer section Added";
 console.log(footer);
 const Payment = "Intergrated the Payment Gateway";
 console.log(Payment);
+
+const upi = "Integrated UPI Payment";
+console.log(upi);
