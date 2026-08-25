@@ -1,0 +1,13 @@
+body{
+    background-color:blue;
+    box-sizing: border-box;
+}
+
+
+h1{
+    background-color: rgb(244, 90, 116);
+    color: yellow;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25px;
+}  
